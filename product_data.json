@@ -1,0 +1,122 @@
+[
+  {
+    "key": 1,
+    "product": "xyz 01",
+    "price": 12,
+    "rating": 4
+  },
+  {
+    "key": 2,
+    "product": "xyz 02",
+    "price": 13,
+    "rating": 5
+  },
+  {
+    "key": 3,
+    "product": "xyz 03",
+    "price": 14,
+    "rating": 5
+  },
+  {
+    "key": 4,
+    "product": "xyz 04",
+    "price": 15,
+    "rating": 4
+  },
+  {
+    "key": 5,
+    "product": "xyz 05",
+    "price": 16,
+    "rating": 4
+  },
+  {
+    "key": 6,
+    "product": "xyz 06",
+    "price": 17,
+    "rating": 5
+  },
+  {
+    "key": 7,
+    "product": "xyz 07",
+    "price": 18,
+    "rating": 5
+  },
+  {
+    "key": 8,
+    "product": "xyz 08",
+    "price": 19,
+    "rating": 4
+  },
+  {
+    "key": 9,
+    "product": "xyz 09",
+    "price": 20,
+    "rating": 4
+  },
+  {
+    "key": 10,
+    "product": "xyz 10",
+    "price": 21,
+    "rating": 5
+  },
+  {
+    "key": 11,
+    "product": "xyz 11",
+    "price": 22,
+    "rating": 5
+  },
+  {
+    "key": 12,
+    "product": "xyz 12",
+    "price": 23,
+    "rating": 4
+  },
+  {
+    "key": 13,
+    "product": "xyz 13",
+    "price": 24,
+    "rating": 4
+  },
+  {
+    "key": 14,
+    "product": "xyz 14",
+    "price": 25,
+    "rating": 5
+  },
+  {
+    "key": 15,
+    "product": "xyz 15",
+    "price": 26,
+    "rating": 5
+  },
+  {
+    "key": 16,
+    "product": "xyz 16",
+    "price": 27,
+    "rating": 4
+  },
+  {
+    "key": 17,
+    "product": "xyz 17",
+    "price": 28,
+    "rating": 4
+  },
+  {
+    "key": 18,
+    "product": "xyz 18",
+    "price": 29,
+    "rating": 5
+  },
+  {
+    "key": 19,
+    "product": "xyz 19",
+    "price": 30,
+    "rating": 5
+  },
+  {
+    "key": 20,
+    "product": "xyz 20",
+    "price": 31,
+    "rating": 4
+  }
+]
